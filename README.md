@@ -55,7 +55,7 @@ systemctl restart wg-quick@wg0
 
  ## Script for Sell Only. Contact owner on Telegram @jayvpn <a href="https://t.me/jayvpn" target=”_blank”><img src="https://img.shields.io/static/v1?style=for-the-badge&logo=Telegram&label=Telegram&message=Click%20Here&color=blue"></a>
 
- ## For Buy Script : Contact Telegram @Virtual_NW <a href="https://t.me/jayvpn" target=”_blank”><img src="https://img.shields.io/static/v1?style=for-the-badge&logo=Telegram&label=Telegram&message=Click%20Here&color=blue"></a>
+ ## For Buy Script : Contact Telegram @jayvpn <a href="https://t.me/jayvpn" target=”_blank”><img src="https://img.shields.io/static/v1?style=for-the-badge&logo=Telegram&label=Telegram&message=Click%20Here&color=blue"></a>
 
  ## Main Menu
  
