@@ -117,7 +117,7 @@ systemctl restart wg-quick@wg0
 
 ## Telegram
 
-[V-Code](https://t.me/jayvpn)
+[Jay-Tech](https://t.me/jayvpn)
 
 ## Credit :
 
